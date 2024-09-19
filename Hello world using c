@@ -1,0 +1,29 @@
+#include<stdio.h>
+int main()
+{
+  printf("c   c ccccc c     c     ccccc\n");
+  printf("c   c c     c     c     c   c\n");
+  printf("c   c c     c     c     c   c\n");
+  printf("ccccc ccccc c     c     c   c\n");
+  printf("c   c c     c     c     c   c\n");
+  printf("c   c c     c     c     c   c\n");
+  printf("c   c ccccc ccccc ccccc ccccc\n\n");
+
+  printf("c   c ccccc ccccc c     cccc \n");
+  printf("c   c c   c c   c c     c   c\n");
+  printf("c   c c   c ccccc c     c   c\n");
+  printf("c c c c   c cc    c     c   c\n");
+  printf("cc cc c   c c c   c     c   c\n");
+  printf("c   c c   c c  c  c     c   c\n");
+  printf("c   c ccccc c   c ccccc cccc \n");
+
+  return 0;
+  }
+
+
+
+
+
+
+
+
